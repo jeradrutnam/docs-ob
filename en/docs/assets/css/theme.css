@@ -77,10 +77,6 @@
     }
 }
 
-html .md-typeset .superfences-tabs > label:hover {
-    color: #ff7043;
-}
-
 .md-search__input {
     background-color: #dedede;
 }
